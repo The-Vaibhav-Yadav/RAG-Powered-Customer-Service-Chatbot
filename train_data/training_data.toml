@@ -1,0 +1,239 @@
+[[data]]
+query = "How can I pay my invoice?"
+label = "billing"
+
+[[data]]
+query = "What payment methods do you accept?"
+label = "billing"
+
+[[data]]
+query = "Can I use PayPal to pay?"
+label = "billing"
+
+[[data]]
+query = "Is bank transfer supported?"
+label = "billing"
+
+[[data]]
+query = "How do I update my payment method?"
+label = "billing"
+
+[[data]]
+query = "Where can I find my past bills?"
+label = "billing"
+
+[[data]]
+query = "When are invoices generated?"
+label = "billing"
+
+[[data]]
+query = "Why was I charged a late fee?"
+label = "billing"
+
+[[data]]
+query = "How can I cancel my subscription?"
+label = "billing"
+
+[[data]]
+query = "Am I eligible for a refund?"
+label = "billing"
+
+[[data]]
+query = "Can I switch from Basic to Pro plan?"
+label = "billing"
+
+[[data]]
+query = "What’s the cost of the Enterprise plan?"
+label = "billing"
+
+[[data]]
+query = "Where do I download my billing history?"
+label = "billing"
+
+[[data]]
+query = "How do I downgrade my plan?"
+label = "billing"
+
+[[data]]
+query = "I think my invoice has an error."
+label = "billing"
+
+[[data]]
+query = "How do I dispute a billing charge?"
+label = "billing"
+
+[[data]]
+query = "What happens if my payment fails?"
+label = "billing"
+
+[[data]]
+query = "Can I change my billing cycle?"
+label = "billing"
+
+[[data]]
+query = "Where is the payment portal?"
+label = "billing"
+
+[[data]]
+query = "I need help understanding my invoice."
+label = "billing"
+
+[[data]]
+query = "How do I set up my SmartHub?"
+label = "technical"
+
+[[data]]
+query = "Why won't my SmartHub connect to Wi-Fi?"
+label = "technical"
+
+[[data]]
+query = "Is 5GHz Wi-Fi supported?"
+label = "technical"
+
+[[data]]
+query = "How do I reset my device?"
+label = "technical"
+
+[[data]]
+query = "Why is the TechTrend app crashing?"
+label = "technical"
+
+[[data]]
+query = "How do I update the firmware?"
+label = "technical"
+
+[[data]]
+query = "My device won’t sync. What should I do?"
+label = "technical"
+
+[[data]]
+query = "How do I clear the app cache?"
+label = "technical"
+
+[[data]]
+query = "How do I reinstall the app?"
+label = "technical"
+
+[[data]]
+query = "Why are my settings not saved?"
+label = "technical"
+
+[[data]]
+query = "What’s the latest software version?"
+label = "technical"
+
+[[data]]
+query = "How can I manually update the software?"
+label = "technical"
+
+[[data]]
+query = "My device stopped working after the update."
+label = "technical"
+
+[[data]]
+query = "Where can I check warranty status?"
+label = "technical"
+
+[[data]]
+query = "How do I submit a repair request?"
+label = "technical"
+
+[[data]]
+query = "The sync button doesn’t work."
+label = "technical"
+
+[[data]]
+query = "Why is the device light blinking red?"
+label = "technical"
+
+[[data]]
+query = "How do I fix sync issues?"
+label = "technical"
+
+[[data]]
+query = "I can’t log into the TechTrend app."
+label = "technical"
+
+[[data]]
+query = "Is my device still under warranty?"
+label = "technical"
+
+[[data]]
+query = "What are your store hours?"
+label = "general"
+
+[[data]]
+query = "Where are your retail locations?"
+label = "general"
+
+[[data]]
+query = "Can I shop online?"
+label = "general"
+
+[[data]]
+query = "What’s your return policy?"
+label = "general"
+
+[[data]]
+query = "How do I contact support?"
+label = "general"
+
+[[data]]
+query = "Where is your company located?"
+label = "general"
+
+[[data]]
+query = "Can I call customer service?"
+label = "general"
+
+[[data]]
+query = "Do you offer live chat?"
+label = "general"
+
+[[data]]
+query = "What products do you sell?"
+label = "general"
+
+[[data]]
+query = "Can I get a product brochure?"
+label = "general"
+
+[[data]]
+query = "Do you offer bulk discounts?"
+label = "general"
+
+[[data]]
+query = "Where can I leave feedback?"
+label = "general"
+
+[[data]]
+query = "What is the priority support line number?"
+label = "general"
+
+[[data]]
+query = "How long does shipping take?"
+label = "general"
+
+[[data]]
+query = "Do you ship to the UK?"
+label = "general"
+
+[[data]]
+query = "Where do I track my order?"
+label = "general"
+
+[[data]]
+query = "How do I reach sales?"
+label = "general"
+
+[[data]]
+query = "Are you open on Saturdays?"
+label = "general"
+
+[[data]]
+query = "Tell me about TechTrend Innovations."
+label = "general"
+
+[[data]]
+query = "Do you offer international shipping?"
+label = "general"

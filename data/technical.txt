@@ -1,0 +1,30 @@
+Technical Support for TechTrend Innovations Products
+
+1. Device Setup:
+- To set up your TechTrend SmartHub, plug it into a power source, connect to Wi-Fi via the TechTrend app, and follow the in-app instructions.
+- Download the TechTrend app from the App Store (iOS) or Google Play (Android).
+- Ensure your device is running firmware version 2.1.3 or higher for optimal performance.
+
+2. Connectivity Issues:
+- If your SmartHub fails to connect to Wi-Fi, ensure the network is 2.4 GHz (5 GHz is not supported).
+- Reset the device by holding the power button for 10 seconds, then reattempt setup.
+- Check for interference from other devices and ensure the router is within 30 feet.
+
+3. Software Troubleshooting:
+- If the TechTrend software crashes, ensure you’re using the latest version (check for updates at software.techtrend.com).
+- Clear the app cache via Settings > Storage > Clear Cache on your device.
+- For persistent issues, uninstall and reinstall the app, then log in again.
+
+4. Account Sync Issues:
+- If your account data isn’t syncing, verify your internet connection and ensure you’re logged in with the correct credentials.
+- Go to account.techtrend.com and click “Sync Now” to manually trigger synchronization.
+- If the issue persists, contact support@techtrend.com with your account ID.
+
+5. Hardware Malfunctions:
+- For defective devices, check if your product is under warranty (1 year for most products) at warranty.techtrend.com.
+- To initiate a repair, submit a ticket at support.techtrend.com with your order number and a description of the issue.
+- Do not attempt to open or repair devices yourself, as this voids the warranty.
+
+6. Software Updates:
+- Automatic updates are enabled by default. To manually update, go to Settings > Software Update in the TechTrend app.
+- Ensure your device is connected to Wi-Fi and has at least 50% battery before updating.

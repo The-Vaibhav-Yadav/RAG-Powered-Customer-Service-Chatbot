@@ -1,0 +1,30 @@
+Billing Information for TechTrend Innovations
+
+1. Payment Methods:
+- Payments can be made via credit/debit card, PayPal, or bank transfer through our secure portal at payment.techtrend.com.
+- Accepted cards: Visa, MasterCard, American Express.
+- For bank transfers, use account number 1234567890, routing number 0987654321, and include your invoice ID in the reference.
+
+2. Invoice Details:
+- Invoices are issued monthly on the 1st and sent to your registered email address.
+- To view or download past invoices, log in to your account at account.techtrend.com and navigate to the Billing History section.
+- Late payments incur a 1.5% monthly fee after a 7-day grace period.
+
+3. Subscription Plans:
+- Basic Plan: $29.99/month, includes core software features and email support.
+- Pro Plan: $59.99/month, includes all Basic features plus priority support and advanced analytics.
+- Enterprise Plan: Custom pricing, contact sales@techtrend.com for a quote.
+- You can upgrade or downgrade your plan at any time via account.techtrend.com.
+
+4. Refunds and Cancellations:
+- Refunds are available within 14 days of purchase for software subscriptions, provided no more than 10% of features have been used.
+- To cancel your subscription, go to account.techtrend.com, select Manage Subscription, and follow the prompts.
+- Hardware purchases are eligible for returns within 30 days if unopened and in original packaging.
+
+5. Billing Disputes:
+- If you believe there’s an error on your invoice, contact billing@techtrend.com within 30 days of the invoice date.
+- Provide your invoice ID and a brief description of the issue for faster resolution.
+
+6. Payment Issues:
+- If your payment fails, you’ll receive an email notification with instructions to update your payment method.
+- Accounts unpaid for 15 days may be temporarily suspended until payment is received.

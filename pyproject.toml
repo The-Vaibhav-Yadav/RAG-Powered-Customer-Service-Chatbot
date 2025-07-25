@@ -1,0 +1,15 @@
+[project]
+name = "csb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "ollama>=0.5.1",
+    "pgvector>=0.4.1",
+    "psycopg2-binary>=2.9.10",
+    "scikit-learn>=1.7.0",
+    "sentence-transformers>=5.0.0",
+    "toml>=0.10.2",
+]
