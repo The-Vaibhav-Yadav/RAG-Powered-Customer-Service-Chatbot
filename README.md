@@ -24,12 +24,12 @@ A completely localized, privacy-first Retrieval-Augmented Generation (RAG) syste
 - **LLM Engine**: Localized language generation managed strictly through `Ollama` hosting the Google `gemma:2b` lightweight model.
 
 ```mermaid
-graph TD;
-    User-->Frontend;
-    Frontend-->classifier[Query Classifier];
-    classifier-->postgres[(PostgreSQL pgvector)];
-    postgres-->ollama[Ollama LLM (gemma:2b)];
-    ollama-->User;
+graph TD
+    User-->Frontend
+    Frontend-->classifier["Query Classifier"]
+    classifier-->postgres[("(PostgreSQL pgvector)")]
+    postgres-->ollama["Ollama LLM (gemma:2b)"]
+    ollama-->User
 ```
 
 ## Prerequisites
